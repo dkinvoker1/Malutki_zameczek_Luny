@@ -11,3 +11,6 @@ D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.Properti
 D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.csproj.GenerateResource.Cache
 D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.exe
 D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.pdb
+C:\Users\Zielona Owieczka\Source\Repos\Malutki_zameczek_Luny\FeedHero\FeedHero\bin\Debug\FeedHero.exe.config
+C:\Users\Zielona Owieczka\Source\Repos\Malutki_zameczek_Luny\FeedHero\FeedHero\obj\Debug\FeedHero.exe
+C:\Users\Zielona Owieczka\Source\Repos\Malutki_zameczek_Luny\FeedHero\FeedHero\obj\Debug\FeedHero.pdb
