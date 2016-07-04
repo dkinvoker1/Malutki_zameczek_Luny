@@ -1,0 +1,13 @@
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\bin\Debug\FeedHero.exe.config
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\bin\Debug\FeedHero.exe
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\bin\Debug\FeedHero.pdb
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\MainWindow.g.cs
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\App.g.cs
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero_MarkupCompile.cache
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero_MarkupCompile.lref
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\MainWindow.baml
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.g.resources
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.Properties.Resources.resources
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.csproj.GenerateResource.Cache
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.exe
+D:\Stefan\Programowanie dla zabawy\FeedHero\FeedHero\obj\Debug\FeedHero.pdb
